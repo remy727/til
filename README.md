@@ -1,5 +1,10 @@
 # Today I Learned
 
+### bash
+| # | Category | Title |
+|---| -------- | ----- |
+| 1 | bash | [Kill Sidekiq processes](./bash/kill-sidekiq-process.md) |
+
 ### macOS
 | # | Category | Title |
 |---| -------- | ----- |
