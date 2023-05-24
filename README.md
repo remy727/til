@@ -15,3 +15,9 @@
 | # | Category | Title |
 |---| -------- | ----- |
 | 1 | Ruby on Rails | [Active Record’s rewhere](./Rails/active-record-rewhere.md) |
+
+### Shopify
+| # | Category | Title |
+|---| -------- | ----- |
+| 1 | Shopify | [Register translation](./Shopify/Localizatons/register-translation.md) |
+| 2 | Shopify | [Retrieve translation](./Shopify/Localizatons/retrieve-translation.md) |
