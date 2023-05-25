@@ -1,5 +1,10 @@
 # Today I Learned
 
+### AI
+| # | Title |
+|---| ----- |
+| 1 | [AI Coding Tools](./AI/coding-tools.md) |
+
 ### bash
 | # | Title |
 |---| ----- |
