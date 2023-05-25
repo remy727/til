@@ -31,6 +31,7 @@
 | # | Title |
 |---| ----- |
 | 1 | [Active Record’s rewhere](./Rails/active-record-rewhere.md) |
+| 2 | [Polymorphic Association](./Rails/polymorphic-association.md) |
 
 ### Shopify
 | # | Title |
