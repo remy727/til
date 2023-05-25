@@ -5,6 +5,11 @@
 |---| -------- | ----- |
 | 1 | bash | [Kill Sidekiq processes](./bash/kill-sidekiq-process.md) |
 
+### Git
+| # | Title |
+|---| ----- |
+| 1 | [Open Sources](./Git/open-sources.md) |
+
 ### macOS
 | # | Category | Title |
 |---| -------- | ----- |
