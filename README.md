@@ -3,7 +3,7 @@
 ### AI
 | # | Title |
 |---| ----- |
-| 1 | [AI Coding Tools](./AI/coding-tools.md) |
+| 1 | [Tools](./AI/tools.md) |
 
 ### bash
 | # | Title |
