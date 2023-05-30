@@ -1,4 +1,5 @@
 # Secret Active Record Methods
+
 I learned Active Record feature: using `!` query methods to modify a query object in place instead of returning a new one. Let’s use `distinct!` as an example:
 
 ```ruby
