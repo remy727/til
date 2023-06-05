@@ -1,11 +1,11 @@
 # Show `postgresql.conf` location
 ```bash
-postgres# show config_file
+postgres# show config_file;
 ```
 
 # Show `pg_hba.conf` location
 ```bash
-postgres# show hba_file
+postgres# show hba_file;
 ```
 
 # Steps to allow remote connections
