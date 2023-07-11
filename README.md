@@ -39,7 +39,7 @@
 | 2 | [Polymorphic Association](./Rails/polymorphic-association.md) | |
 | 3 | [Measuring Elapsed Time Correctly](./Rails/measuring-elapsed-time.md) | [Blog](https://remy727.github.io/ruby/2023/05/29/measuring-elapsed-time-correctly.html) |
 | 4 | [Secret Active Record Methods](./Rails/secret-active-record-methods.md) | [Blog](https://remy727.github.io/ruby/2023/05/30/secret-active-record-methods.html) |
-| 5 | [Gem Errors](./Rails/gem-errors.md) | |
+| 5 | [cURLing with Rails' Authenticity Token](./Rails/curling-with-rails-authenticity-token.md) | |
 
 ### Shopify
 | # | Title |
