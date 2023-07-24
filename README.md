@@ -19,6 +19,7 @@
 | # | Title |
 |---| ----- |
 | 1 | [Clear Redis](./Heroku/redis.md) |
+| 2 | [Releases and Rollbacks](./Heroku/releses-and-rollbacks.md)
 
 ### macOS
 | # | Title |
@@ -47,3 +48,4 @@
 |---| ----- |
 | 1 | [Register translation](./Shopify/Localizations/register-translation.md) |
 | 2 | [Retrieve translation](./Shopify/Localizations/retrieve-translation.md) |
+| 3 | [Shopify CLI commands for apps](./Shopify/Apps/cli-commands.md) |
