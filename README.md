@@ -49,3 +49,8 @@
 | 1 | [Register translation](./Shopify/Localizations/register-translation.md) |
 | 2 | [Retrieve translation](./Shopify/Localizations/retrieve-translation.md) |
 | 3 | [Shopify CLI commands for apps](./Shopify/Apps/cli-commands.md) |
+
+### Stripe
+| # | Title |
+|---| ----- |
+| 1 | [Emulating Stripe Webhooks](./Stripe/emulating-stripe-webhooks.md) |

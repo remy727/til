@@ -1,4 +1,4 @@
-### Emulating Stripe Webhooks
+# Emulating Stripe Webhooks
 1. Install the Stripe CLI with brew, and run `stripe login` to login to Stripe account.
 2. Start the app's dev server(e.g. localhost: 3000)
 3. Run `stripe listen --forward-to localhost:3000/webhooks/onboarding` to forward webhooks to that endpoint on the local server.
