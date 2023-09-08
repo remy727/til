@@ -25,6 +25,10 @@ host    all             all             192.168.3.51/24         md5
 
 # Restart the service and verify it’s up and running:
 ```bash
+# Ubuntu
 sudo systemctl restart postgresql
 sudo systemctl status postgresql
+
+# macOS
+brew services restart postgresql@15
 ```
