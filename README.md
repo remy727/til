@@ -50,6 +50,12 @@
 | 2 | [Retrieve translation](./Shopify/Localizations/retrieve-translation.md) |
 | 3 | [Shopify CLI commands for apps](./Shopify/Apps/cli-commands.md) |
 
+### Sidekiq
+| # | Title |
+|---| ----- |
+| 1 | [Failure Handling](./Sidekiq/failure-handling.md) |
+| 2 | [Inheritance](./Sidekiq/inheritance.md) |
+
 ### Stripe
 | # | Title |
 |---| ----- |
