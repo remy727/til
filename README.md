@@ -20,6 +20,8 @@
 |---| ----- |
 | 1 | [Clear Redis](./Heroku/redis.md) |
 | 2 | [Releases and Rollbacks](./Heroku/releses-and-rollbacks.md)
+| 3 | [Alternatives](./Heroku/alternatives.md)
+
 
 ### macOS
 | # | Title |
