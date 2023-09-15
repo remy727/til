@@ -9,6 +9,7 @@
 | # | Title |
 |---| ----- |
 | 1 | [Kill Sidekiq processes](./bash/kill-sidekiq-process.md) |
+| 2 | [Running Rubocop Only On Modified Files](./bash/running-rubocop-only-on-modified-files.md)
 
 ### Git
 | # | Title |
