@@ -33,7 +33,7 @@
 |---| ----- |
 | 1 | [Install PostgreSQL 15 on Ubuntu](./PostgreSQL/install-postgresql15-on-ubuntu.md) |
 | 2 | [Configure PostgreSQL to allow remote connections](./PostgreSQL/configure-postgresql-to-allow-remote-connections.md) |
-| 3 | [Commands](./PostgreSQL/2023-05-30-commands.md) |
+| 3 | [Queries](./PostgreSQL/queries.md.md) |
 
 ### Ruby on Rails
 | # | Title | Blog |
