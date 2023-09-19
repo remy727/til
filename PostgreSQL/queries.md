@@ -30,3 +30,8 @@ select *
 from INFORMATION_SCHMEA.COLUMNS
 where TABLE_NAME="table_name";
 ```
+
+### Create extension
+```sql
+CREATE EXTENSION IF NOT EXISTS 'uuid-ossp';
+```
