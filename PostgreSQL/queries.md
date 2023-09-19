@@ -23,3 +23,10 @@ join
 join
   pg_catalog.pg_namespace n ON n.oid = t.typnamespace;
 ```
+
+### Get columns
+```sql
+select *
+from INFORMATION_SCHMEA.COLUMNS
+where TABLE_NAME="table_name";
+```
