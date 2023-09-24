@@ -23,7 +23,6 @@
 | 2 | [Releases and Rollbacks](./Heroku/releses-and-rollbacks.md)
 | 3 | [Alternatives](./Heroku/alternatives.md)
 
-
 ### macOS
 | # | Title |
 |---| ----- |
@@ -46,6 +45,7 @@
 | 5 | [cURLing with Rails' Authenticity Token](./Rails/curling-with-rails-authenticity-token.md) | |
 | 6 | [How to validate the presence of a boolean field in a Rails model](./Rails/how-to-validate-the-presence-of-a-boolean-field-in-a-rails-model.md) | |
 | 7 | [bin/rails notes](./Rails/rails-notes.md) | |
+| 8 | [How to create a new Rails app running Rails 7.1 beta or main branch](./Rails/how-to-create-a-new-rails-app-running-rails-71-beta-or-main-branch.md) | |
 
 ### Shopify
 | # | Title |
