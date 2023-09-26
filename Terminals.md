@@ -6,3 +6,4 @@
 - [kitty](https://sw.kovidgoyal.net/kitty/)
 - [Upterm](https://upterm.dev/)
 - [Wezterm](https://wezfurlong.org/wezterm)
+- [Extraterm](https://extraterm.org/)
