@@ -6,3 +6,6 @@
 
 # Terminals
 - [Warp AI](https://www.warp.dev/warp-ai)
+
+# Other
+- [Mano AI](https://www.usemano.com/)
