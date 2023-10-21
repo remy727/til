@@ -14,3 +14,8 @@ $ heroku pg:backups:capture --app example-app
 ```bash
 $ heroku pg:backups:url b001 --app example-app
 ```
+
+### Import into local
+```bash
+$ pg_restore -x --no-owner -d [database] [dump file]
+```
