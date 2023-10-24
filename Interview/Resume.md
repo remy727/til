@@ -1,0 +1,1 @@
+- [This Is What A GOOD Resume Should Look Like](https://www.careercup.com/resume)
