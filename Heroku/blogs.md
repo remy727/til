@@ -1,0 +1,1 @@
+- [Handling Heroku's new "heroku_ext" schema for Postgres extensions](https://blog.testdouble.com/posts/2022-08-15-migrating-postgres-extensions-to-the-heroku_ext_schema/)
