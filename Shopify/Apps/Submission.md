@@ -1,0 +1,1 @@
+- [App Store Submission Checklist](https://gilg.notion.site/App-Store-Submission-Checklist-b7c88bd16c364c2bb26c973db6cf6f7b)
