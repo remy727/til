@@ -1,0 +1,1 @@
+- [Allow targeting specific cart lines with discount functions](https://github.com/Shopify/function-examples/discussions/199)
