@@ -1,0 +1,3 @@
+- [Polaris Migrator](https://polaris.shopify.com/tools/polaris-migrator#v12-react-update-button-component)
+- [Migrating from v11 to v12](https://polaris.shopify.com/version-guides/migrating-from-v11-to-v12)
+- [Migrating from v10 to v11](https://github.com/Shopify/polaris/blob/main/documentation/guides/migrating-from-v10-to-v11.md#migrating-from-v10-to-v11)
