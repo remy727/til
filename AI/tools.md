@@ -1,8 +1,7 @@
 # Code assistant
 - [Cody](https://docs.sourcegraph.com/cody)
-
-# Code editor
 - [Cursor](https://www.cursor.so)
+- [Tabnine](https://www.tabnine.com)
 
 # Terminals
 - [Warp AI](https://www.warp.dev/warp-ai)
