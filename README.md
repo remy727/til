@@ -47,6 +47,7 @@
 | 6 | [How to validate the presence of a boolean field in a Rails model](./Rails/how-to-validate-the-presence-of-a-boolean-field-in-a-rails-model.md) | |
 | 7 | [bin/rails notes](./Rails/rails-notes.md) | |
 | 8 | [How to create a new Rails app running Rails 7.1 beta or main branch](./Rails/how-to-create-a-new-rails-app-running-rails-71-beta-or-main-branch.md) | |
+| 9 | [Logging in Delayed Job](./Rails/delayed_job-logging.md) | |
 
 ### Shopify
 | # | Title |
