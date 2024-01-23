@@ -33,6 +33,7 @@
 | 4 | [Ionicons](https://ionic.io/ionicons) |
 | 5 | [Iconduck](https://iconduck.com) |
 | 6 | [Iconoir](https://iconoir.com/) |
+| 7 | [Radix Icons](https://www.radix-ui.com/icons) |
 
 ### macOS
 | # | Title |
