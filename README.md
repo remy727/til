@@ -24,6 +24,16 @@
 | 3 | [Alternatives](./Heroku/alternatives.md)
 | 4 | [Heroku Postgres](./Heroku/postgres.md)
 
+### Icons
+| # | Title |
+|---| ----- |
+| 1 | [Font Awesome](https://fontawesome.com/icons) |
+| 2 | [Material Icons](https://mui.com/material-ui/material-icons) |
+| 3 | [Heroicons](https://heroicons.com) |
+| 4 | [Ionicons](https://ionic.io/ionicons) |
+| 5 | [Iconduck](https://iconduck.com) |
+| 6 | [Iconoir](https://iconoir.com/) |
+
 ### macOS
 | # | Title |
 |---| ----- |
