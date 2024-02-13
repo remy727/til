@@ -39,6 +39,7 @@
 | # | Title |
 |---| ----- |
 | 1 | [Open Application without GPU](./macOS/open-application-without-gpu.md) |
+| 2 | [Check VMware Tools version](./macOS/check-vmware-tools-version.md) |
 
 ### PostgreSQL
 | # | Title |
