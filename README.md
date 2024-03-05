@@ -11,6 +11,11 @@
 | 1 | [Kill Sidekiq processes](./bash/kill-sidekiq-process.md) |
 | 2 | [Running Rubocop Only On Modified Files](./bash/running-rubocop-only-on-modified-files.md)
 
+### Docker
+| # | Title |
+|---| ----- |
+| 1 | [Setup Postgres Database with Docker](./Docker/setup-postgres-database.md) |
+
 ### Git
 | # | Title |
 |---| ----- |
