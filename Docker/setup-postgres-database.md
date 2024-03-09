@@ -11,6 +11,7 @@ docker pull postgres:15.6
 # Create/Run Postgres Container
 ```bash
 docker run --name postgres-15.6 -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=postgres -d -p 5432:5432 postgres:15.6
+docker run --name postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=postgres -d -p 5432:5432 postgres
 ```
 
 # Verify Executing Container
