@@ -35,3 +35,8 @@ where TABLE_NAME="table_name";
 ```sql
 CREATE EXTENSION IF NOT EXISTS 'uuid-ossp';
 ```
+
+### Reset auto increment counter in postgres
+```sql
+ALTER SEQUENCE product_id_seq RESTART WITH 1;
+```
