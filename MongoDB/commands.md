@@ -33,3 +33,10 @@ mongo -u "remy727" -p "1234" --authenticationDatabase "admin"
 use new_database_name
 db.myCollection.insertOne({ name: "test"}) # database is not actually created until it gets content!
 ```
+
+### Create user in database
+
+```bash
+use mydb
+db.createUser({user: "remy727",pwd: "1234", roles: [{ role: "readWrite", db: "mydb" }]})
+```
