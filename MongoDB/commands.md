@@ -3,6 +3,11 @@
 mongosh
 ```
 
+### MongoDB URL
+```bash
+mongodb://username:password@127.0.0.1:27017/checkout_rule?authSource=admin
+```
+
 ### Select databases
 ```bash
 show dbs
