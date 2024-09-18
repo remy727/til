@@ -24,3 +24,7 @@ mongo -u "remy727" -p "1234" --authenticationDatabase "admin"
 ```
 
 ### Create database
+```bash
+use new_database_name
+db.myCollection.insertOne({ name: "test"}) # database is not actually created until it gets content!
+```
