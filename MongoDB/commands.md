@@ -5,7 +5,7 @@ mongosh
 
 ### MongoDB URL
 ```bash
-mongodb://username:password@127.0.0.1:27017/checkout_rule?authSource=admin
+mongodb://username:password@127.0.0.1:27017/databasename?authSource=admin
 ```
 
 ### Select databases
