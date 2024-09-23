@@ -40,3 +40,9 @@ db.myCollection.insertOne({ name: "test"}) # database is not actually created un
 use mydb
 db.createUser({user: "remy727",pwd: "1234", roles: [{ role: "readWrite", db: "mydb" }]})
 ```
+
+### Dump/restore
+```bash
+mongodump -d <database_name> -o <directory_backup>
+mongorestore -d <database_name> <directory_backup>
+```
