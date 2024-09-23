@@ -28,6 +28,11 @@ restart
 mongo -u "remy727" -p "1234" --authenticationDatabase "admin"
 ```
 
+### Remove user
+```bash
+db.dropUser("remy727")
+```
+
 ### Create database
 ```bash
 use new_database_name
