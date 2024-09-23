@@ -33,10 +33,15 @@ mongo -u "remy727" -p "1234" --authenticationDatabase "admin"
 db.dropUser("remy727")
 ```
 
-### Create database
+### Database
 ```bash
+# create database
 use new_database_name
 db.myCollection.insertOne({ name: "test"}) # database is not actually created until it gets content!
+
+# drop database
+use database_name
+db.dropDatabase()
 ```
 
 ### Create user in database
