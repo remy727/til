@@ -20,19 +20,19 @@
 3. Authorize your Windows machine to connect
 	Run one of the following commands, in a local PowerShell window replacing user and host name as appropriate to copy your local public key to the SSH host.
 	- Connecting to a macOS or Linux SSH host:
-	```bash
-	$USER_AT_HOST="your-user-name-on-host@hostname"
-	$PUBKEYPATH="$HOME\.ssh\id_ed25519.pub"
+	  ```bash
+	  $USER_AT_HOST="your-user-name-on-host@hostname"
+	  $PUBKEYPATH="$HOME\.ssh\id_ed25519.pub"
 
-	$pubKey=(Get-Content "$PUBKEYPATH" | Out-String); ssh "$USER_AT_HOST" "mkdir -p ~/.ssh && chmod 700 ~/.ssh && echo '${pubKey}' >> ~/.ssh/authorized_keys && chmod 600 ~/.ssh/authorized_keys"
-	```
+	  $pubKey=(Get-Content "$PUBKEYPATH" | Out-String); ssh "$USER_AT_HOST" "mkdir -p ~/.ssh && chmod 700 ~/.ssh && echo '${pubKey}' >> ~/.ssh/authorized_keys && chmod 600 ~/.ssh/authorized_keys"
+	  ```
 	- Connecting to a Windows SSH host:
-	```bash
-	$USER_AT_HOST="your-user-name-on-host@hostname"
-	$PUBKEYPATH="$HOME\.ssh\id_ed25519.pub"
+	  ```bash
+	  $USER_AT_HOST="your-user-name-on-host@hostname"
+	  $PUBKEYPATH="$HOME\.ssh\id_ed25519.pub"
 
-	Get-Content "$PUBKEYPATH" | Out-String | ssh $USER_AT_HOST "powershell `"New-Item -Force -ItemType Directory -Path `"`$HOME\.ssh`"; Add-Content -Force -Path `"`$HOME\.ssh\authorized_keys`" `""
-	```
+	  Get-Content "$PUBKEYPATH" | Out-String | ssh $USER_AT_HOST "powershell `"New-Item -Force -ItemType Directory -Path `"`$HOME\.ssh`"; Add-Content -Force -Path `"`$HOME\.ssh\authorized_keys`" `""
+	  ```
 	Validate that the authorized_keys file in the .ssh folder for your remote user on the SSH host is owned by you and no other user has permission to access it. See the OpenSSH wiki for detail
 
 ## Reference
