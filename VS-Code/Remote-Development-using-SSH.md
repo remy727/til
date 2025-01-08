@@ -1,7 +1,8 @@
 # Remote Development using SSH
 
 1. Allow a remote computer to access your OS
-	- [Mac](https://support.apple.com/guide/mac-help/allow-a-remote-computer-to-access-your-mac-mchlp1066/mac)	
+	- [Mac](https://support.apple.com/guide/mac-help/allow-a-remote-computer-to-access-your-mac-mchlp1066/mac)
+    - Ubunu: Run `Run sudo apt-get install openssh-server`
 2. Create your local SSH key pair
 	- If you do not have a key, run the following command in a local terminal / PowerShell to generate an SSH key pair:
 	  ```bash
